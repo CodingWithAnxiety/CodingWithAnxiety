@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello, there.
 
-<!--
-**CodingWithAnxiety/CodingWithAnxiety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Sylvia Roselie, a hobbyist programmer interested particularly in linux and networking.
 
-Here are some ideas to get you started:
+I will say I love working with low-level languages, but truthfully I've never finished anything outside of python to date— Though I wish to change that soon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I am currently working on: 
+- My own Akkoma instance
+- RMLint 
+- My personal website
+
+### I am currerntly learning:
+- How to create my own websites.
