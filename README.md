@@ -1,20 +1,15 @@
 ## Hello, there.
 
-I am Sylvia Roselie, a hobbyist programmer interested particularly in linux and networking.
+Hello, I am Rose. I've been around the internet for some time, but I've never properly introduced myself to many of you. I'm a dedicated Linux user, compiled & interpreted programmer, and an avid advocate for digital individuality and privacy.
 
-I will say I love working with low-level languages, but truthfully I've never finished anything outside of python to date— Though I wish to change that soon.
 
 ### I am currently working on: 
-- My own Akkoma instance
+- Horizon (and it's successor, coughs.)
 - RMLint 
-- My personal website
-
-### I am currerntly learning:
-- How to create my own websites.
+- My personal website (always.)
 
 ### GPG key(s):
-
-#### Sylvia Roselie <roseswilt@pm.me>
+#### Sylvia Roselie <rose@rosely.me>
 I use this key to sign all my git commits, ssh, etc. It is secured on a yubikey, so you can rest 100% assured that I am in control of it when it is used.
 
 - [View on Ubuntu keyserever](https://keyserver.ubuntu.com/pks/lookup?search=E133+3823+4538+C052+6A91++BFE0+3196+7189+D22B+4CC2&fingerprint=on&op=index)
